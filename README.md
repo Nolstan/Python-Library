@@ -20,6 +20,10 @@ A simple command-line library management system written in Python, allowing both
 - Search for books
 - View total count of books
 
+### Default Admin Credentials
+- Admin ID: `someword` (hardcoded in the system)
+- You'll need to create an admin account first using this ID
+  
 ### Student Functions
 - Borrow available books
 - Search for books
